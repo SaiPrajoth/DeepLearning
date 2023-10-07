@@ -1,12 +1,12 @@
 ---
 
-# Machine Learning Repository
+# Deep Learning Repository
 
-Welcome to the Machine Learning Repository! This repository houses a collection of machine learning projects, code, and related files. Whether you're a data enthusiast, a student, or a seasoned practitioner, you'll find a variety of projects here to explore and learn from.
+Welcome to the Deep Learning Repository! This repository houses a collection of deep learning projects, code, and related files. Whether you're a data enthusiast, a student, or a seasoned practitioner, you'll find a variety of projects here to explore and learn from.
 
 ## Projects
 
-Browse through the project folders to find a diverse range of machine learning applications. Each project comes with its own README file that provides details, instructions, and insights into the problem, data, and techniques used.
+Browse through the project folders to find a diverse range of deep learning applications. Each project comes with its own README file that provides details, instructions, and insights into the problem, data, and techniques used.
 
 ## Usage
 
